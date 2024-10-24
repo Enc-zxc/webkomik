@@ -1,3 +1,3 @@
 module.exports = {
-  baseURL: 'https://komikcast.cz/'
+  baseURL: 'https://komikstation.co'
 }
