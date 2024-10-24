@@ -5,7 +5,7 @@ export default function Header() {
     <div className="p-3 flex justify-between items-center bg-green-500 text-white">
       <div className="">
         <Link href="/">
-          <a className="text-xl font-bold">BacaKomik</a>
+          <a className="text-xl font-bold">Komik-IDN</a>
         </Link>
       </div>
       <div className=""></div>
